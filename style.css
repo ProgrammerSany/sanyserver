@@ -28,3 +28,33 @@ header h1 i {
 header ul {
     list-style: none;
 }
+
+
+
+
+@media (max-width: 768px) {
+    header {
+        height: 95vh;
+    }
+}
+
+@media (max-width: 600px) {
+    header {
+        height: 95vh;
+    }
+}
+@media (max-width: 500px) {
+    header {
+        height: 80vh;
+    }
+}
+@media (max-width: 400px) {
+    header {
+        height: 80vh;
+    }
+}
+@media (max-width: 300px) {
+    header {
+        height: 75vh;
+    }
+}
